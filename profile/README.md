@@ -1,6 +1,6 @@
 ## Hatsune Micro
 
-**HatsuneMicro** is an open-source organization dedicated to the radical optimization and debloating of the **Firefox** browser.
+**HatsuneMicro** is an open-source organization dedicated to the optimization and debloating of the **Firefox**.
 
 We believe the modern internet is overloaded with unnecessary scripts, trackers, and telemetry that slow down your browsing experience and compromise your privacy. Our mission is to restore Firefox to its speed, cleanliness, and efficiency.
 
